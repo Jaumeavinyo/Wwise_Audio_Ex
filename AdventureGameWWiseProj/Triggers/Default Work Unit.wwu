@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{ECAC5F42-E712-42EA-AB29-36D8922FEA47}" SchemaVersion="97">
+	<Triggers>
+		<WorkUnit Name="Default Work Unit" ID="{ECAC5F42-E712-42EA-AB29-36D8922FEA47}" PersistMode="Standalone">
+			<ChildrenList>
+				<Trigger Name="Desert" ID="{79A0CB36-A698-49EE-B58F-232C54F49817}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Triggers>
+</WwiseDocument>

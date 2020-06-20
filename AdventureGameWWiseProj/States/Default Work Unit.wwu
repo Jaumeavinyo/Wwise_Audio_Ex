@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{83FE20DC-F5BE-4D05-A0C4-494FE17021BB}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{83FE20DC-F5BE-4D05-A0C4-494FE17021BB}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Music_Regions" ID="{9C301606-7C76-4663-9F63-F4500E30248A}">
+					<ChildrenList>
+						<State Name="None" ID="{B6A146EB-A032-4AC7-B529-49EBB94F91E3}"/>
+						<State Name="Desert" ID="{36ECFCD9-572E-4C57-842D-6FFD194713C5}"/>
+						<State Name="Woodlands" ID="{4364EEA4-978D-43F6-98BD-D5DA743047A4}"/>
+						<State Name="Dungeon" ID="{2DB43482-ED89-4561-B4AE-74288A6BA122}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

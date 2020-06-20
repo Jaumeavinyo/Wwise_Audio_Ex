@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{404299B1-39F8-4F48-844F-062948B287DA}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{404299B1-39F8-4F48-844F-062948B287DA}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Player_Footstep" ID="{375E4D57-FADF-433D-882C-B47010ABE167}">
+					<ChildrenList>
+						<Action Name="" ID="{4023D69C-3F88-48FD-B862-E6846F3634F6}" ShortID="1057852125">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Surface_Type" ID="{883C8513-9106-45BA-A485-B8CA75BE963F}" WorkUnitID="{D632F59C-4331-4C69-98C6-747B04016E22}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Pickup_Coins" ID="{42912E22-82F0-4A20-8849-F7F6EEBE9A3E}">
+					<ChildrenList>
+						<Action Name="" ID="{881B3F68-B447-4B46-A4CA-EDE74B6E837C}" ShortID="31376813">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player_Pickup_ItemType_Key" ID="{0E308BD4-6213-4CD5-94BA-15E1BEBB3515}" WorkUnitID="{D632F59C-4331-4C69-98C6-747B04016E22}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{007B049F-42D0-4198-90D0-A5A5D4975814}" ShortID="690257511">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="35"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Desert" ID="{79A0CB36-A698-49EE-B58F-232C54F49817}" WorkUnitID="{ECAC5F42-E712-42EA-AB29-36D8922FEA47}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player_Health" ID="{2FFE927F-5CCB-43B6-97C2-2DAB9D654210}">
+					<ChildrenList>
+						<Action Name="" ID="{1EFC1E83-9665-4CDC-913E-4B03981E9666}" ShortID="7338739">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player_Health" ID="{9E929674-DBDE-483B-8474-5130A902CF29}" WorkUnitID="{D632F59C-4331-4C69-98C6-747B04016E22}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ambient_River" ID="{E88D98AC-5A6B-429D-ABCC-4540F304A7F2}">
+					<ChildrenList>
+						<Action Name="" ID="{4AD91FBB-F4DF-47CF-9DF6-995D2C38A29D}" ShortID="978472207">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="River - Attenuaion share set" ID="{C1F7AAB9-90FA-4F41-818A-9AA7155DC27A}" WorkUnitID="{D632F59C-4331-4C69-98C6-747B04016E22}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Region" ID="{043CE62B-C7E0-4A67-AB6E-21BFD320CE1F}">
+					<ChildrenList>
+						<Action Name="" ID="{381272CA-4C99-4AC6-A63F-8FBE999F9688}" ShortID="38555132">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music_Regions" ID="{62FF4C25-C7CA-47B7-AC47-D4D999A9E7BB}" WorkUnitID="{22AA5370-9185-4F88-8DB1-C5CADC44609B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

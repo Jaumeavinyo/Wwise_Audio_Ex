@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{92444381-16BE-4B29-9522-01983C4D1385}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{92444381-16BE-4B29-9522-01983C4D1385}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="General" ID="{106B8042-666C-407C-B2E8-2E19B030BD8C}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Player_Health" ID="{2FFE927F-5CCB-43B6-97C2-2DAB9D654210}" WorkUnitID="{404299B1-39F8-4F48-844F-062948B287DA}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Pickup_Coins" ID="{42912E22-82F0-4A20-8849-F7F6EEBE9A3E}" WorkUnitID="{404299B1-39F8-4F48-844F-062948B287DA}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music_Region" ID="{043CE62B-C7E0-4A67-AB6E-21BFD320CE1F}" WorkUnitID="{404299B1-39F8-4F48-844F-062948B287DA}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Village" ID="{BA10D291-13C6-4337-9B18-41DD916DC741}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Ambient_River" ID="{E88D98AC-5A6B-429D-ABCC-4540F304A7F2}" WorkUnitID="{404299B1-39F8-4F48-844F-062948B287DA}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player_Footstep" ID="{375E4D57-FADF-433D-882C-B47010ABE167}" WorkUnitID="{404299B1-39F8-4F48-844F-062948B287DA}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Cave" ID="{0731CE76-E7A7-4E1F-BF9C-3ED1426C7FDD}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Player_Footstep" ID="{375E4D57-FADF-433D-882C-B47010ABE167}" WorkUnitID="{404299B1-39F8-4F48-844F-062948B287DA}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Desert" ID="{1246F350-C00C-415B-9546-98424CA55875}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Player_Footstep" ID="{375E4D57-FADF-433D-882C-B47010ABE167}" WorkUnitID="{404299B1-39F8-4F48-844F-062948B287DA}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Dungeon" ID="{43F3CC13-26F3-4583-A8A4-385ED15A698B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Player_Footstep" ID="{375E4D57-FADF-433D-882C-B47010ABE167}" WorkUnitID="{404299B1-39F8-4F48-844F-062948B287DA}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="PineForest" ID="{2F9A9AEF-1A43-46F7-AE60-6232B491114E}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Player_Footstep" ID="{375E4D57-FADF-433D-882C-B47010ABE167}" WorkUnitID="{404299B1-39F8-4F48-844F-062948B287DA}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Woodlands" ID="{9B63AFAB-2EC6-408B-8B29-3D9CA47B52B4}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Player_Footstep" ID="{375E4D57-FADF-433D-882C-B47010ABE167}" WorkUnitID="{404299B1-39F8-4F48-844F-062948B287DA}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

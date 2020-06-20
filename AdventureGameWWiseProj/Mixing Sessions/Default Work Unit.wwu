@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0937CD95-9101-4497-BE3B-A816D110F033}" SchemaVersion="97">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{0937CD95-9101-4497-BE3B-A816D110F033}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="Test Mixing Session" ID="{75AE864B-ECBF-4D00-827E-2AEB32B5AD54}">
+					<ObjectList>
+						<ObjectRef Name="Player_Pickup_ItemType_Key" ID="{0E308BD4-6213-4CD5-94BA-15E1BEBB3515}" WorkUnitID="{D632F59C-4331-4C69-98C6-747B04016E22}"/>
+						<ObjectRef Name="Surface_Type" ID="{883C8513-9106-45BA-A485-B8CA75BE963F}" WorkUnitID="{D632F59C-4331-4C69-98C6-747B04016E22}"/>
+						<ObjectRef Name="Player_Health" ID="{9E929674-DBDE-483B-8474-5130A902CF29}" WorkUnitID="{D632F59C-4331-4C69-98C6-747B04016E22}"/>
+						<ObjectRef Name="River - Attenuaion share set" ID="{C1F7AAB9-90FA-4F41-818A-9AA7155DC27A}" WorkUnitID="{D632F59C-4331-4C69-98C6-747B04016E22}"/>
+						<ObjectRef Name="Audio" ID="{1634FE4F-0BC7-4376-BFF0-9135034AA2B2}" WorkUnitID="{44E1C66F-50E5-4833-90CC-12B32E0D2002}"/>
+						<ObjectRef Name="Auxbus" ID="{50008BDD-95AB-44A2-B492-FBA7CF510290}" WorkUnitID="{44E1C66F-50E5-4833-90CC-12B32E0D2002}"/>
+						<ObjectRef Name="Music" ID="{A0A7E564-9B74-4B75-BEAE-D9B9D3DB4DB1}" WorkUnitID="{44E1C66F-50E5-4833-90CC-12B32E0D2002}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>

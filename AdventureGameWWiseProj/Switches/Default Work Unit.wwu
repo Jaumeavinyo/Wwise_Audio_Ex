@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D0B42925-233B-4DE6-8D21-E60C282238AC}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{D0B42925-233B-4DE6-8D21-E60C282238AC}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Surface_Type" ID="{C85BA08B-07F6-49F5-81A5-C4EC5450E15D}">
+					<ChildrenList>
+						<Switch Name="Grass" ID="{5566B8E2-3EB4-4BEF-A266-D5379EED3D71}"/>
+						<Switch Name="Stone" ID="{8CD1FB46-22CE-4820-AFFA-59E0BACFB21D}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Player_Pickup_ItemType" ID="{CDE7F06D-8857-46D0-A22B-C8715B31C9C2}">
+					<ChildrenList>
+						<Switch Name="Key" ID="{F27D154A-906E-43C5-B8C3-F19B89EEE73A}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
